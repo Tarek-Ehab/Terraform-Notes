@@ -136,7 +136,3 @@
     }
   }
   ```
-
----
-
-This structured approach should help make your notes easier to follow and practical for daily Terraform use. Let me know if you need further adjustments!
