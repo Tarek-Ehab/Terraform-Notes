@@ -1,5 +1,4 @@
-# Terraform-Notes
-### **Structured Terraform Notes**
+# **Terraform-Notes**
 
 ---
 
